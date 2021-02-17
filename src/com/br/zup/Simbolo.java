@@ -12,4 +12,8 @@ public enum Simbolo {
     Simbolo(int pontuacao){
         this.pontuacao = pontuacao;
     }
+
+    public int getPontuacao() {
+        return pontuacao;
+    }
 }
