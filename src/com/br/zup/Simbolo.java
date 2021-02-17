@@ -5,7 +5,7 @@ package com.br.zup;
  *
  */
 public enum Simbolo {
-    BANANA(10);
+    BANANA(10), ESTRELA(40), MORANGO(20), COCO(30 );
 
     private int pontuacao;
 
